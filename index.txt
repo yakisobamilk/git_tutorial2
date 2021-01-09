@@ -1,3 +1,5 @@
 ファイルの中身 1行目
 git status
 git diff
+
+やっとプッシュできた
